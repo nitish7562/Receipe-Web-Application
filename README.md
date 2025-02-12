@@ -20,3 +20,5 @@ A simple web application that helps you find meal recipes based on the ingredien
 ```sh
 git clone https://github.com/your-username/Receipe-Web-Application.git
 cd Receipe-Web-Application
+
+Live Application on- "https://nitish7562.github.io/Receipe-Web-Application/"
